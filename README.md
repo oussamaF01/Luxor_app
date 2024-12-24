@@ -110,4 +110,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Acknowledgements 🙏
 - Special thanks to **Luxor** for providing the opportunity to work on this project during my internship.
 - Thanks to the development team at **Luxor** for their support and guidance throughout the project.
-- The **ISO 9001 certification** for maintaining high standards of quality and efficiency.
